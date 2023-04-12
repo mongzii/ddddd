@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         좀  집에 가자고 
+         풀리퀘좀 되게 해주세요 dfdfdfdfdd
         </a>
       </header>
     </div>
